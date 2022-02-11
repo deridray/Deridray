@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deridray
-- 👀 I’m interested in games and hacking with @jigurdas
+- 👀 I’m interested in games and hacking
 - 🌱 I’m currently learning python
 - 📫 deridray@gmail.com for reach me
 
